@@ -1,7 +1,3 @@
-Here is an enhanced version of your GitHub profile README file with a more visually appealing layout:
-
----
-
 <h1 align="center">Hi 👋, I'm Dunith Kalyanasinghe</h1>
 <h3 align="center">A passionate Full Stack and UI/UX developer from Sri Lanka</h3>
 
@@ -157,6 +153,4 @@ Here is an enhanced version of your GitHub profile README file with a more visua
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunithnk&" alt="dunithnk" />
 </p>
 
----
 
-I hope you find this layout more attractive and engaging!
