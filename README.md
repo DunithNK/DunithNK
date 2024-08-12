@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dunith Kalyanasinghe</h1>
-<h3 align="center">A passionate Full Stack and UI/UX developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack and UI/UX Engineer from Sri Lanka</h3>
 
 ![sliit](https://user-images.githubusercontent.com/97633808/162484789-1f2facd0-b3a9-4671-a5da-36d0280e5e9c.jpg)
   
