@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dunith Kalyanasinghe</h1>
 <h3 align="center">A passionate Full Stack and UI/UX Engineer from Sri Lanka</h3>
 
-![sliit](https://user-images.githubusercontent.com/97633808/162484789-1f2facd0-b3a9-4671-a5da-36d0280e5e9c.jpg)
-  
-
+<p align="center">
+  <img src="/mnt/data/image.png" alt="I AM SLIIT" />
+</p>
 
 <p align="center">
-  <a href =![sliit](https://user-images.githubusercontent.com/97633808/162484789-1f2facd0-b3a9-4671-a5da-36d0280e5e9c.jpg) />
   <img src="https://komarev.com/ghpvc/?username=dunithnk&label=Profile%20views&color=0e75b6&style=flat" alt="dunithnk" />
 </p>
 
@@ -118,42 +117,13 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/Dunith Kalyanasinghe">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dunith Kalyanasinghe" />
-  </a>
-</p>
-<br><br><br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dunithnk&show_icons=true&locale=en&layout=compact" alt="dunithnk" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dunithnk&show_icons=true&locale=en" alt="dunithnk" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dunithnk&" alt="dunithnk" />
 </p>
